@@ -1,0 +1,2 @@
+# C2CSecond-handTradingPlatformManagementSystem
+ 基于ssm的C2C二手交易平台管理系统：发布自己闲置的商品，同时自己也可以发布求购商品信息，支持加入购物车，在线下单
